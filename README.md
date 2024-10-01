@@ -11,3 +11,4 @@
 ## 더 알아보기
 
 - [_2024 하반기 전남대학교 PIMM 알고리즘 파티 대회에는 무슨 일이 있었나?_](https://blog.jonghyeon.me/posts/2024-09-23-rewinding-2024-2-pimm-party/) - 박종현<sup>belline0124</sup>
+- [_2024 하반기 핌 알고리즘 대회를 돌아보며_](https://develop-gs.tistory.com/5) - 김근성<sup>onsbtyd</sup>
